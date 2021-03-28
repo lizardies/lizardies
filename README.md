@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizardies
 - 👀 I’m interested in music(-production), web-development
-- 🌱 I’m currently learning Vue.js, Node.js, React
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
